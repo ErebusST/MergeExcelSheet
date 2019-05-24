@@ -1,0 +1,12 @@
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\bin\Debug\MergeExcelTab.exe.config
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\bin\Debug\MergeExcelTab.exe
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\bin\Debug\MergeExcelTab.pdb
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\bin\Debug\Aspose.Cells.dll
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\bin\Debug\Aspose.Cells.xml
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.csprojResolveAssemblyReference.cache
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.Form1.resources
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.MainForm.resources
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.Properties.Resources.resources
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.csproj.GenerateResource.Cache
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.exe
+Y:\Works\Workspaces\小工具\MergeExcelTab\MergeExcelTab\MergeExcelTab\obj\Debug\MergeExcelTab.pdb
